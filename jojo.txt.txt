@@ -1,6 +1,2 @@
-prueba 1
-<<<<<<< HEAD
-prueba 3
-=======
-prueba 2
->>>>>>> refs/remotes/origin/militarPaper
+
+jojo
