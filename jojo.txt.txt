@@ -1,2 +1,6 @@
 prueba 1
+<<<<<<< HEAD
 prueba 2
+=======
+prueba 3
+>>>>>>> master
