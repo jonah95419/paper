@@ -1,8 +1,2 @@
-
-op
-
-
-jojo
-
-----------------------------
+esta es una version de prieba de la factibilidad de github
 
